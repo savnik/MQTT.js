@@ -1,11 +1,12 @@
 {
-  "name": "mqtt",
+  "name": "mqtt-no-shebang",
   "description": "A library for the MQTT protocol",
   "version": "3.0.0",
   "contributors": [
     "Adam Rudd <adamvrr@gmail.com>",
     "Matteo Collina <matteo.collina@gmail.com> (https://github.com/mcollina)",
-    "Siarhei Buntsevich <scarry0506@gmail.com> (https://github.com/scarry1992)"
+    "Siarhei Buntsevich <scarry0506@gmail.com> (https://github.com/scarry1992)",
+    "Peter Savnik <peter@savnik.dk>"
   ],
   "keywords": [
     "mqtt",
@@ -16,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mqttjs/MQTT.js.git"
+    "url": "git://github.com/savnik/MQTT.js.git"
   },
   "main": "mqtt.js",
   "types": "types/index.d.ts",
